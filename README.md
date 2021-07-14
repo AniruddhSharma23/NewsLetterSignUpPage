@@ -1,4 +1,5 @@
 # NewsLetterSignUpPage
-A News letter sign up page made using MongoDB, Express, NodeJS, CSS.
-Deployed using Heroku.
-Check the project here https://fathomless-harbor-25167.herokuapp.com/
+Designed a full-stack Web-App to manage user day-to-day tasks using JavaScript, NodeJs, MongoDB.
+Implemented functionalities to register users with proper email authentication.
+Simplified Html DOM tree traversal, manipulation, and event handling using jQuery. Store the data in JSON format using MongoDB. Implemented Data Validation using Mongoose. Handled the server-side requests and responses using ExpressJs.
+https://fathomless-harbor-25167.herokuapp.com/ 
